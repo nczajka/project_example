@@ -1,2 +1,4 @@
-# project_example
+# Project Example
+
 Doing a test run for Orihel lab
+
