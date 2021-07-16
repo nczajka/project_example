@@ -1,3 +1,3 @@
 ## Project scripts
 
-~ 'Scripts' contains testing title
+- 'Scripts' contains testing title
